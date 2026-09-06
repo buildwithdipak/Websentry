@@ -1,5 +1,6 @@
 #pyt#!/usr/bin/env python3.
 #this is a website for checking another websites vulnerabilities 🙃🙂
+#hope you guys don't misuse of this 😵‍💫
 """
 WebSentry - Fast Website Vulnerability Scanner
 Run: python scanner.py
